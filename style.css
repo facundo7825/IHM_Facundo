@@ -13,6 +13,10 @@
     background-size: cover;
     min-height: 700px;
   }
+  .fondo
+  {
+    background: url(../img/fondo2.jpg);
+  }
   
   .background-overlay {
     background: rgba(107, 48, 94, 0.7);
@@ -27,5 +31,7 @@
   }
   
   .team, footer {
-    background: #6b303d;
+    background: #252850;
   }
+
+  
